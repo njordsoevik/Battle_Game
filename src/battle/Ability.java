@@ -1,5 +1,5 @@
 package battle;
-
+//TODO
 /**
  * Abilities are created to hold strength, constitution, dexterity, and charisma values.
  * Classes that implement this interface will have unique ability scores.
